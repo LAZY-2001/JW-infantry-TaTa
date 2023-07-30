@@ -37,7 +37,6 @@ void MX_CAN1_Init(void)
 
   /* USER CODE BEGIN CAN1_Init 1 */
   
-
   /* USER CODE END CAN1_Init 1 */
   hcan1.Instance = CAN1;
   hcan1.Init.Prescaler = 3;
